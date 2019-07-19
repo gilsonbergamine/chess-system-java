@@ -13,7 +13,7 @@ public class Position {
 	public void setRow(int row) {
 		this.row = row;
 	}
-	public int getColomn() {
+	public int getColumn() {
 		return column;
 	}
 	public void setColumn(int column) {
